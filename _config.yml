@@ -15,20 +15,20 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Hunormous log"
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+locale                   : "ko-KR"
+title                    : "JAVA Blog"
+title_separator          : "-" # 타이틀 사이 구분자  "$#124;" 할경우 | 모양을 구분
+subtitle                 : #site tagline that appears below site title in masthead
 name                     : "Huno Jung"
-description              : "제어 엔지니어에서 SW 개발자가 되기 위한 발자취"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "Playdata 교육을 통한 개발자 과정"
+url                      : # Gitbold 호스트 주소 the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
-words_per_minute         : 200
+teaser                   : # 홈페이지 기본 티져 이미지 #path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : # 타이틀 옆에 작게 들어갈 이미지path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : "개발자가 되기 위한 과정"# overrides the website title displayed in the masthead, use " " for no title
+# breadcrumbs            : true # true, false (default)
+words_per_minute         : 200 # 분당 읽는 예상 글자수 / 해당 포스트 읽는데 걸리는 시간 예측을 위한 변수
 
 # 댓글 관련 부분
 comments:
@@ -104,10 +104,10 @@ analytics:
 # Site Author
 author:
   name             : "Huno Jung"
-  avatar           : assets/books.jpg# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "제어 엔지니어에서 SW 개발자가 되기 위한 발자취"
-  location         : "Seoul, South Korea"
-  email            : # huno0504@naver.com
+  avatar           : assets/books.jpg # 프로필 이미지 path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "제어 엔지니어에서 SW 개발자가 되는 과정<br>Platdata Iot·Bigdata·AI 기술융합 개발자 양성과정"
+  location         : "Republic of korea"
+  email            : "huno0504@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
