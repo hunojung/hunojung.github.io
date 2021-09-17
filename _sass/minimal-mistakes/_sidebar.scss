@@ -134,8 +134,8 @@
   }
 
   img {
-    max-width: 110px;
-    border-radius: 50%;
+    max-width: 175px;
+    border-radius: 15%; #프로필사진 곡률 낮을수록 사각형에 가까워짐 , 50%는 완전한 원형
 
     @include breakpoint($large) {
       padding: 5px;
