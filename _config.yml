@@ -21,7 +21,7 @@ title_separator          : "-" # 타이틀 사이 구분자  "$#124;" 할경우 
 subtitle                 : #site tagline that appears below site title in masthead
 name                     : "Huno Jung"
 description              : "Playdata 교육을 통한 개발자 과정"
-url                      : # Gitbold 호스트 주소 the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://hunojung.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # 홈페이지 기본 티져 이미지 #path of fallback teaser image, e.g. "/assets/images/500x300.png"
