@@ -105,7 +105,7 @@ analytics:
 author:
   name             : "Huno Jung"
   avatar           : assets/books.jpg # 프로필 이미지 path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Platdata Iot·Bigdata·AI 기술융합 개발자 양성과정" # "<br>제어 엔지니어에서 SW 개발자가 되는 과정"
+  bio              : "Playdata Iot·Bigdata·AI 기술융합 개발자 양성과정 진행중" # "<br>제어 엔지니어에서 SW 개발자가 되는 과정"
   location         : "Republic of korea"
   email            : "huno0504@gmail.com"
   links:
