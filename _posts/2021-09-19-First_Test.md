@@ -2,6 +2,8 @@
 laout : single
 title: "title, 첫 포스트 입니다."
 excerpt: "excerpt"
+categories:
+- github pages 공부
 ---
 # 첫 포스팅
 
