@@ -1,6 +1,7 @@
 ---
 laout : single
-title: "첫 포스트 입니다. 헤헤"
+title: "title, 첫 포스트 입니다."
+excerpt: "excerpt"
 ---
 # 첫 포스팅
 
