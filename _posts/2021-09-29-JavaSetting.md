@@ -21,7 +21,6 @@ JAVA 언어를 학습하기 이전에 IT 개발자는 어떤 종류가 있는지
   - Full-stack 개발자라고 말하는 사람은 자신의 분야가 확립되지 않은 개발자이거나 경력이 긴 작은기업 대표일 가능성이 높다고 합니다.
 
 ## Java 설치하기
-
 - Java 플랫폼 종류
   - Java SE(standard Edition)    : 자바의 기본 개발 환경
   - Jvav EE(Enterprise Edition)  : 서버 기반 프로그램의 개발 환경
@@ -51,4 +50,4 @@ Java 설치 후 환경변수를 설정해야 원활하게 개발을 진행할 �
 
 ## eclipse 설치
 Java 프로그래밍을 하는 툴은 eclipse를 사용하였고 홈페이지에서 쉽게 다운로드 & 설치가 가능하다.
-<img src="/assets/post_photo/eclipse.jpg" width="90%">
+<img src="/assets/post_photo/eclipse.JPG" width="90%">
