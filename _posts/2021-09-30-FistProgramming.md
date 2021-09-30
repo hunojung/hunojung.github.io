@@ -2,10 +2,10 @@
 laout : single
 title: "Java 첫 프로그램 만들기"
 ---
+
 # Java 프로그램 만들기 시작
 Java를 배울 때 eclipse를 쓸 예정이지만 기본 개념을 잘 배워두자. 
-
-
+<br>
 ## Java의 기본 작업 순서
 1) *.java 형식의 소스파일 작성
 2) javac *.java 명령으로 컴파일 진행 → *.class파일 생성됨
