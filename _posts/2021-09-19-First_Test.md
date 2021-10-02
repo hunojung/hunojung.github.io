@@ -4,7 +4,7 @@ title: "title, 첫 포스트 입니다."
 excerpt: "excerpt"
 categories:
 - Github
-tag
+tag :
 - [Github]
 ---
 # 첫 포스팅

@@ -1,6 +1,6 @@
 ---
 laout : single
-title: "Java 시작하기""
+title: "Java 시작하기"
 excerpt : "개발자의 종류, Java 설치, 환경 변수 설정, eclipse 설치"
 categories :
 - Java
