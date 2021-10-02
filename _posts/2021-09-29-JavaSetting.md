@@ -1,11 +1,17 @@
 ---
 laout : single
-title: "Java 시작하기"
-excerpt : "기본 프로그램 설치 및 개발 환경 세팅"
+title: Java 시작하기
+exceprt : 개발자의 종류, Java 설치, 환경 변수 설정, eclipse 설치
+read_time : ture
+related : true
+categories :
+- Java
+tags :
+- Playdata
+- Java
 ---
 
-# 개발 환경 구축을 위한 Java 설치 및 환경 변수 설정
-기본 프로그램 설치 및 설정 방법들 및 개발자에 대해 배워보려 한다.
+# Playdata 6개월 과정 교육을 시작하였다.
 
 ## 개발자의 종류
 JAVA 언어를 학습하기 이전에 IT 개발자는 어떤 종류가 있는지를 알아보려 합니다.
@@ -13,11 +19,11 @@ JAVA 언어를 학습하기 이전에 IT 개발자는 어떤 종류가 있는지
   - 사용자에게 보여지는 화면을 개발합니다.
   - 주로 HTML, CSS, JavaScript를 사용합니다.
   - 최근 표준화된 HTML5에 맞춰 모바일과 PC모두 대응하는 반응형 웹이 유행한다고 합니다.
-<br>
+
 - Back-end 개발자
   - 웹 상에서 사용되는 웹페이지가 원하는 기능을 하도록 DB와 API서버 개발을 맡습니다.
   - Front-end 지식 뿐만 아니라 Java, Python, MySQL 등 다양한 기술이 요구 된다고 합니다.
-<br>
+
 - Full-stack 개발자
   - 위의 Front-end & Back-end를 모두 다룰 수 있는 개발자를 말합니다.
   - Full-stack 개발자라고 말하는 사람은 자신의 분야가 확립되지 않은 개발자이거나 경력이 긴 작은기업 대표일 가능성이 높다고 합니다.
