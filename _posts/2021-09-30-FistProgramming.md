@@ -1,7 +1,7 @@
 ---
 laout : single
 title: "Java 첫 프로그램 만들기"
-excerpt : "Java를 배울 때 eclipse를 쓸 예정이지만 기본 개념을 잘 배워두자."
+excerpt : "Java 기본 개념을 잘 배워두자."
 categories :
 - Java
 tags :
