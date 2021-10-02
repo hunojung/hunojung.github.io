@@ -8,7 +8,7 @@ tags :
 - [Github]
 toc: true #Table of contents 옆에 목록이 생성됨
 toc_sticky: true #toc가 화면을 따라 내려옴
-toc_label: 목차 #toc 상단에 써있는 제목
+toc_label: toc_label #toc 상단에 써있는 제목
 ---
 # 첫 포스팅
 
