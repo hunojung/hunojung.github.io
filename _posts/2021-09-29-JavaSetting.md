@@ -1,9 +1,7 @@
 ---
 laout : single
 title: Java 시작하기
-excerpt : 개발자의 종류, Java 설치, 환경 변수 설정, eclipse 설치
-read_time : ture
-related : true
+excerpt : "개발자의 종류, Java 설치, 환경 변수 설정, eclipse 설치"
 categories :
 - Java
 tags :
@@ -11,7 +9,7 @@ tags :
 - Java
 ---
 
-Playdata 6개월 과정 교육을 시작하였다. 2022년 3월까지의 과정을 기록하기위해 과감하게 github pages를 선택했다. 부족하지만 조금씩 개선해가며 과정을 기록해나가야지.
+Playdata 6개월 과정 교육을 시작하였다. 2022년 3월까지의 과정을 기록하기위해 과감하게 github pages를 선택해다. 부족하지만 조금씩 개선해가며 과정을 기록해나가야지.
 
 ## 개발자의 종류
 JAVA 언어를 학습하기 이전에 IT 개발자는 어떤 종류가 있는지를 알아보려 합니다.
@@ -29,13 +27,15 @@ JAVA 언어를 학습하기 이전에 IT 개발자는 어떤 종류가 있는지
   - Full-stack 개발자라고 말하는 사람은 자신의 분야가 확립되지 않은 개발자이거나 경력이 긴 작은기업 대표일 가능성이 높다고 합니다.
 
 ## Java 설치하기
+
+ORACLE 사이트에서 JAVA SE 1.8ver을 다운로드 & 설치
+<img src="/assets/post_photo/Java_Download.JPG" width="100%">
+
 - Java 플랫폼 종류
   - Java SE(standard Edition)    : 자바의 기본 개발 환경
   - Jvav EE(Enterprise Edition)  : 서버 기반 프로그램의 개발 환경
   - Java ME(Micro Edition) : 모바일 및 임베디드 시스템의 개발 환경
 
-ORACLE 사이트에서 JAVA SE 1.8ver을 다운로드 & 설치
-<img src="/assets/post_photo/Java_Download.JPG" width="100%">
 - Java 1.11ver 버전 이후엔 ORACLE에서 유료화를 진행하였다고 한다. Java 1.8ver버전은 무료이기 때문에 1.8ver을 쓰자.
 - Java 1.8ver은 JDK(Java development kit), JRE(Java Runtime Environment)가 구분되어 있는데 1.11ver부터는 JDK로 통합되었다고 한다.
 
