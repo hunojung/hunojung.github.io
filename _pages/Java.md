@@ -1,7 +1,7 @@
 ---
 title: "Java"
 layout: category
-permalink: /study_note/java/
+permalink: /study/java/
 author_profile: true
 ---
 
