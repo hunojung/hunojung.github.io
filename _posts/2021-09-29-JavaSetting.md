@@ -1,12 +1,11 @@
 ---
 laout : single
-title: Java 시작하기
+title: "Java 시작하기""
 excerpt : "개발자의 종류, Java 설치, 환경 변수 설정, eclipse 설치"
 categories :
 - Java
 tags :
-- Playdata
-- Java
+- [Playdata,Java]
 ---
 
 Playdata 6개월 과정 교육을 시작하였다. 2022년 3월까지의 과정을 기록하기위해 과감하게 github pages를 선택해다. 부족하지만 조금씩 개선해가며 과정을 기록해나가야지.
