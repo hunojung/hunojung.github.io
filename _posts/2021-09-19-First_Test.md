@@ -1,8 +1,8 @@
 ---
 laout : single
-title: "title, 첫 포스트 입니다."
-excerpt: "excerpt"
-categories:
+title : "title, 첫 포스트 입니다."
+excerpt : "excerpt"
+categories :
 - Github
 tags :
 - [Github]

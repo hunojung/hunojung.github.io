@@ -6,6 +6,9 @@ categories :
 - Java
 tags :
 - [Playdata,Java]
+toc: true
+toc_sticky: true
+toc_label: 목차
 ---
 
 Playdata 6개월 과정 교육을 시작하였다. 2022년 3월까지의 과정을 기록하기위해 과감하게 github pages를 선택해다. 부족하지만 조금씩 개선해가며 과정을 기록해나가야지.
