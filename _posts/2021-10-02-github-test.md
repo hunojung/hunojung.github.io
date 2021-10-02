@@ -21,7 +21,7 @@ toc_label: 목차 #toc 상단에 써있는 제목
 `〉git log` - 현재까지 commit 내용들 출력<br>
 `〉git fetch ` - github 서버 내용 업데이트<br>
 `〉git status` - 현재 업데이트 되지 않은 내용을 알 수 있다<br>
-`〉git add <file>` - commit 할 파일을 추가한다.<br>
+`〉git add <file>` - 보통 'git add -A'로 사용, commit 할 파일을 추가한다.<br>
 `〉git commit -m "message"` - commit 실행 및 comment 작성<br>
 `〉git pull <원격명> <브랜치명>` - git pull origin master가 기본<br>
 `〉git push <원격명> <브랜치명>` - git push origin master가 기본<br>
