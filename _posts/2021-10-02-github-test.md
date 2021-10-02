@@ -6,9 +6,9 @@ categories :
 - Github
 tags :
 - [Github]
-toc: true
-toc_sticky: true
-toc_label: 목차
+toc: true #Table of contents 옆에 목록이 생성됨
+toc_sticky: true #toc가 화면을 따라 내려옴
+toc_label: 목차 #toc 상단에 써있는 제목
 ---
 
 익숙하지않은 Terminal 명령어를 기록하기 위한 포스트입니다.

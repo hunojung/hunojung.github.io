@@ -6,9 +6,9 @@ categories :
 - Java
 tags :
 - [Playdata,Java]
-toc: true
-# toc_sticky: true
-toc_label: 목차
+toc: true #Table of contents 옆에 목록이 생성됨
+toc_sticky: true #toc가 화면을 따라 내려옴
+toc_label: 목차 #toc 상단에 써있는 제목
 ---
 
 Playdata 6개월 과정 교육을 시작하였다. 2022년 3월까지의 과정을 기록하기위해 과감하게 github pages를 선택해다. 부족하지만 조금씩 개선해가며 과정을 기록해나가야지.

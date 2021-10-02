@@ -6,9 +6,9 @@ categories :
 - Java
 tags :
 - [Playdata ,Java]
-toc: true
-toc_sticky: true
-toc_label: 목차
+toc: true #Table of contents 옆에 목록이 생성됨
+toc_sticky: true #toc가 화면을 따라 내려옴
+toc_label: 목차 #toc 상단에 써있는 제목
 ---
 
 Java를 배울 때 eclipse를 쓸 예정이지만 기본 개념을 아는 것이 중요하다고 배웠다. 실제 업무는 다양한 tool을 쓸 수 있고 간단한 작업은 tool을 안쓰고 수정할 수도 있다고 한다. 그래서 tool을 쓰지 않고 작업하는 방법을 우선 익혀두자.
