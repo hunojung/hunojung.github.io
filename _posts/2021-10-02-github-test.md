@@ -6,6 +6,9 @@ categories :
 - Github
 tags :
 - [Github]
+toc: true
+toc_sticky: true
+toc_label: 목차
 ---
 
 익숙하지않은 Terminal 명령어를 기록하기 위한 포스트입니다.

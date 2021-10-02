@@ -6,6 +6,9 @@ categories :
 - Java
 tags :
 - [Playdata ,Java]
+toc: true
+toc_sticky: true
+toc_label: 목차
 ---
 
 # Java 프로그램 만들기 시작
