@@ -1,7 +1,7 @@
 ---
 laout : single
 title: "Java 시작하기"
-excerpt : "개발자의 종류, Java 설치, 환경 변수 설정, eclipse 설치"
+excerpt : "개발자의 종류, Java 설치, 환경 변수 설정, eclipse 설치 및 간단한 단축키,"
 categories :
 - Java
 tags :
@@ -10,6 +10,8 @@ toc: true #Table of contents 옆에 목록이 생성됨
 toc_sticky: true #toc가 화면을 따라 내려옴
 toc_label: 목차 #toc 상단에 써있는 제목
 ---
+
+자바 강의 1일차
 
 Playdata 6개월 과정 교육을 시작하였습다. 2022년 3월까지의 과정을 기록하기위해 과감하게 github pages를 선택해 보았습니다.. 부족하지만 조금씩 개선해가며 과정을 기록해나갈테니 잘못된 부분 지적해주시면 감사하겠습니다!
 
@@ -54,10 +56,17 @@ Java 설치 후 환경변수를 설정해야 원활하게 개발을 진행할 �
 <img src="/assets/post_photo/path.jpg" width="90%">
 
 
-'시작프로그램-CMD'을 실행하여 명령 프롬프트에서 Java version 확인이 가능하다.
-> 〉java -version
+설정을 완료하였으면 '시작프로그램-CMD'을 실행하여 명령 프롬프트에서 Java version 확인이 가능하다.
+`>java -version`
 <img src="/assets/post_photo/java_version.jpg" width="90%">
 
-## eclipse 설치
+## eclipse 설치 및 간단한 단축키
 Java 프로그래밍을 하는 툴은 eclipse를 사용하였고 홈페이지에서 쉽게 다운로드 & 설치가 가능하다.
 <img src="/assets/post_photo/eclipse.JPG" width="90%">
+
+`>Ctrl + space bar` - 자동 완성
+`>Ctrl + Alt+( ↓ or ↑ )` - 커서가 있는 라인을 복사
+`>Alt +( ↓ or ↑ )` - 커서가 있는 라인 옮기기
+`>ctrl + /` - 선택된 라인 주석 처리
+`>ctrl + Alt + /` - 선택된 블럭 주석 처리
+`>ctrl + Shift + \` - 블럭 주석 해제
