@@ -66,10 +66,10 @@ Java 프로그래밍을 하는 툴은 eclipse를 사용하였고 홈페이지에
 <img src="/assets/post_photo/eclipse.JPG" width="90%">
 
 - eclipse의 간단한 단축키들
-`>Ctrl + space bar` - 자동 완성
-`>Ctrl + Alt+( ↓ or ↑ )` - 커서가 있는 라인을 복사
-`>Alt +( ↓ or ↑ )` - 커서가 있는 라인 옮기기
-`>ctrl + /` - 선택된 라인 주석 처리
-`>ctrl + Alt + /` - 선택된 블럭 주석 처리
-`>ctrl + Shift + \` - 블럭 주석 해제
+`>Ctrl + space bar` - 자동 완성<br>
+`>Ctrl + Alt+( ↓ or ↑ )` - 커서가 있는 라인을 복사<br>
+`>Alt +( ↓ or ↑ )` - 커서가 있는 라인 옮기기<br>
+`>ctrl + /` - 선택된 라인 주석 처리<br>
+`>ctrl + Alt + /` - 선택된 블럭 주석 처리<br>
+`>ctrl + Shift + \` - 블럭 주석 해제<br>
 `>ctrl + 'M'` - 편집창 크게 작게
