@@ -291,4 +291,4 @@ defaults:
       share: true # true
       related: true
       sidebar:
-        nav: side
+        nav: "side"
