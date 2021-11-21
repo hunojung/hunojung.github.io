@@ -11,13 +11,20 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
-sidebar:
+side:
   - title: "알고리즘"
     children:
       - title: "백준"
         url: /algorithm/backjoon/
       - title: "프로그래머스"
         url: /algorithm/programmers/
+
+  - title: "플레이데이터"
+    children:
+      - title: "Java"
+        url: /playdata/java/
+      - title: "Web"
+        url: /playdata/web/
 
 
 
