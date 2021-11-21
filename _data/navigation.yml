@@ -11,13 +11,14 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
-sidebar:
-  - title: "Title"
-    image: http://placehold.it/350x250
-    image_alt: "image"
-    text: "Some text here."
-  - title: "Another Title"
-    text: "More text here."
+algorithm:
+  - title: "알고리즘"
+    children:
+      - title: "백준"
+        url: /algorithm/backjoon/
+      - title: "프로그래머스"
+        url: /algorithm/programmers/
+
 
 
 # 카테고리 추가시
