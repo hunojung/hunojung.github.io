@@ -15,7 +15,7 @@ side:
   - title: "알고리즘"
     children:
       - title: "백준"
-        url: /algorithm/backjoon/
+        url: /algorithm/baekjoon/
       - title: "프로그래머스"
         url: /algorithm/programmers/
 
