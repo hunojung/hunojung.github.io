@@ -23,8 +23,8 @@ side:
     children:
       - title: "Java"
         url: /playdata/java/
-      - title: "Web"
-        url: /playdata/web/
+      - title: "Spring"
+        url: /playdata/spring/
 
 
 
