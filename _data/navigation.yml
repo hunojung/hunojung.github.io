@@ -19,12 +19,12 @@ side:
       - title: "프로그래머스"
         url: /algorithm/programmers/
 
-  - title: "플레이데이터"
+  - title: "programming study"
     children:
       - title: "Java"
-        url: /playdata/java/
+        url: /study/java/
       - title: "Spring"
-        url: /playdata/spring/
+        url: /study/spring/
 
 
 

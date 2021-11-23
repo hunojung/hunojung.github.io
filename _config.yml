@@ -12,11 +12,11 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "sunrise"#"default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "sunrise" #"default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "JAVA Blog" # masthead_title 없을 경우 디폴트로 title이 입력됨
+title                    : "개발자가 되어가는 과정 Blog" # masthead_title 없을 경우 디폴트로 title이 입력됨
 title_separator          : "-" # 타이틀 사이 구분자  "$#124;" 할경우 | 모양을 구분
 subtitle                 : #site tagline that appears below site title in masthead
 name                     : "Huno Jung"
