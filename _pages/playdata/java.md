@@ -1,6 +1,6 @@
 ---
 title: "Java 프로그래밍"
 layout: archive
-permalink: /java/
+permalink: /playdata/java/
 author_profile: true
 ---
