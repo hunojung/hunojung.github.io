@@ -1,5 +1,5 @@
 ---
-title: "Spring 프로그래밍"
+title: "Spring 작업 포스팅"
 layout: category
 permalink: /categories/spring/
 author_profile: true
