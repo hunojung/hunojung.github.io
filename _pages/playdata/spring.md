@@ -1,6 +1,6 @@
 ---
 title: "Spring 작업  프로그래밍"
-layout: archive
+layout: category
 permalink: /categories/spring/
 author_profile: true
 taxonomy: Spring
