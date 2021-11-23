@@ -292,3 +292,11 @@ defaults:
       related: true
       sidebar:
         nav: "side"
+          # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      author_profile: true
+      sidebar:
+        nav: "side"
