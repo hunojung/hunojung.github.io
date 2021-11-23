@@ -19,7 +19,7 @@ side:
       - title: "프로그래머스"
         url: /algorithm/programmers/
 
-  - title: "programming study"
+  - title: "Study"
     children:
       - title: "Java"
         url: /study/java/
