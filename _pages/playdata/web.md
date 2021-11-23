@@ -1,7 +1,7 @@
 ---
-title: "Web 프로그래밍"
+title: "Spring 작업  프로그래밍"
 layout: archive
-permalink: /categories/web/
+permalink: /categories/spring/
 author_profile: true
-taxonomy: Web
+taxonomy: Spring
 ---
