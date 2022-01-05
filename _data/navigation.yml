@@ -29,3 +29,5 @@ side:
         url: /study/spring/
       - title: "Python"
         url: /study/python/
+      - title: "Computer vision"
+        url: /study/computer_vision/
