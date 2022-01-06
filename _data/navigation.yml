@@ -16,14 +16,10 @@ side:
     children:
       - title: "알고리즘 공부"
         url: /algorithm/algorithm/
-      - title: "백준"
-        url: /algorithm/baekjoon/
-      - title: "프로그래머스"
-        url: /algorithm/programmers/
 
   - title: "Study"
     children:
-      - title: "Java"
+      - title: <b style="font-size:50px;">"Java"</b>
         url: /study/java/
       - title: "Spring"
         url: /study/spring/
