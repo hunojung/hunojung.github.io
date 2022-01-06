@@ -12,18 +12,18 @@ main:
   #   url: /sitemap/
 
 side:
-  - title: <b style="font-size:30px;">Algorithm</b>
+  - title: <b style="font-size:20px;">Algorithm</b>
     children:
-      - title: <p style="font-size:20px;">Algorithm study</p>
+      - title: <p style="font-size:15px;">Algorithm study</p>
         url: /algorithm/algorithm/
 
-  - title: <b style="font-size:30px;">Study</b>
+  - title: <b style="font-size:20px;">Study</b>
     children:
-      - title: <p style="font-size:20px;">Java</p>
+      - title: <p style="font-size:15px;">Java</p>
         url: /study/java/
-      - title: <p style="font-size:20px;">Spring</p>
+      - title: <p style="font-size:15px;">Spring</p>
         url: /study/spring/
-      - title: <p style="font-size:20px;">Python</p>
+      - title: <p style="font-size:15px;">Python</p>
         url: /study/python/
-      - title: <p style="font-size:20px;">Computer Vision</p>
+      - title: <p style="font-size:15px;">Computer Vision</p>
         url: /study/computer_vision/
