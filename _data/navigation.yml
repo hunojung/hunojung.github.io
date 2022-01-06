@@ -12,18 +12,18 @@ main:
   #   url: /sitemap/
 
 side:
-  - title: "알고리즘"
+  - title: <b style="font-size:30px;">Algorithm</b>
     children:
-      - title: "알고리즘 공부"
+      - title: <p style="font-size:20px;">Algorithm study</p>
         url: /algorithm/algorithm/
 
-  - title: "Study"
+  - title: <b style="font-size:30px;">Study</b>
     children:
-      - title: <b style="font-size:50px;">"Java"</b>
+      - title: <p style="font-size:20px;">Java</p>
         url: /study/java/
-      - title: "Spring"
+      - title: <p style="font-size:20px;">Spring</p>
         url: /study/spring/
-      - title: "Python"
+      - title: <p style="font-size:20px;">Python</p>
         url: /study/python/
-      - title: "Computer vision"
+      - title: <p style="font-size:20px;">Computer Vision</p>
         url: /study/computer_vision/
