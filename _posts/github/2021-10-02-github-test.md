@@ -1,5 +1,5 @@
 ---
-laout : single
+layout : single
 title : "Terminal을 이용한 github 파일 다운/업로드 하기"
 excerpt : "gitub 명령어들을 Terminal에서 사용되는 git 명령어들을 확인하자"
 categories :
