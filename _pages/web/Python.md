@@ -1,7 +1,7 @@
 ---
 title: "Spring 프로그래밍"
 layout: category
-permalink: /study/python/
+permalink: /web/python/
 author_profile: true
 taxonomy: Python
 ---

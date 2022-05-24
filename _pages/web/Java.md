@@ -1,7 +1,7 @@
 ---
 title: "Java 프로그래밍"
 layout: category
-permalink: /study/java/
+permalink: /web/java/
 author_profile: true
 taxonomy: Java
 ---

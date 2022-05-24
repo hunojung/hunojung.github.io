@@ -17,13 +17,17 @@ side:
       - title: <p style="font-size:15px;">Algorithm study</p>
         url: /algorithm/algorithm/
 
-  - title: <b style="font-size:20px;">Study</b>
+  - title: <b style="font-size:20px;">WEB 개발</b>
     children:
       - title: <p style="font-size:15px;">Java</p>
-        url: /study/java/
+        url: /web/java/
       - title: <p style="font-size:15px;">Spring</p>
-        url: /study/spring/
+        url: /web/spring/
       - title: <p style="font-size:15px;">Python</p>
-        url: /study/python/
+        url: /web/python/
       - title: <p style="font-size:15px;">Computer Vision</p>
-        url: /study/computer_vision/
+        url: /web/computer_vision/
+  - title: <b style="font-size:20px;">SAP 개발</b>
+    children:
+      - title: <p style="font-size:15px;">SAP ABAP</p>
+        url: /sap/sap/

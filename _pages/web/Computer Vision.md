@@ -1,7 +1,7 @@
 ---
 title: "Computer Vision"
 layout: category
-permalink: /study/computer_vision/
+permalink: /web/computer_vision/
 author_profile: true
 taxonomy: Computer Vision
 ---
